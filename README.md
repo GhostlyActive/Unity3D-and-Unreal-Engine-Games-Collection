@@ -9,10 +9,10 @@
   <img src="/Media/gamescollage.gif" width="600" alt="collage">
 </p>
 
-[Youtube](https://www.youtube.com/watch?v=zMvyp1VcPuQ) 
+[Youtube](https://www.youtube.com/playlist?list=PLcM3ti5Eo5i-SAUEn-oNoo_JurwyszxF_) 
 
 
-## Jump ’n’ Run Game 2D
+## Jump ’n’ Run Game 2D (Unity Engine)
 
 
 <p align="center">
@@ -24,7 +24,7 @@
 [Youtube](https://www.youtube.com/watch?v=ZaXDWqYNt40) 
 
 
-## Asteroid Game 2D
+## Asteroid Game 2D (Unity Engine)
 
 
 <p align="center">
@@ -34,24 +34,4 @@
 </p>
 
 [Youtube](https://www.youtube.com/watch?v=l3BtDIzgb1s) 
-
-
-
-## Stealth Game 3D
-
-
-<p align="center">
-  <img src="/Media/Stealth/Gameplay_1.png" width="400" alt="Gameplay_1">
-  <img src="/Media/Stealth/Gameplay_2.png" width="400" alt="Gameplay_2">
-</p>
-
-[Youtube](https://www.youtube.com/watch?v=zMvyp1VcPuQ) 
-
-                          
-
-
-
-
-
-
 
